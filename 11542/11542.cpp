@@ -7,7 +7,7 @@ int main() {
 long double tmp1,tmp2,intpart;
 int tn,size,res;
 scanf("%d",&tn);
-int po2 ={1,2,4,8,32,64};
+int po2[] ={1,2,4,8,32,64};
 
 
 while(tn--){
